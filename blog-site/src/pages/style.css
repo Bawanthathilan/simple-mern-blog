@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  flex-direction: column;
+}
+
+.blogHomeTitle {
+  text-align: left;
+  font-weight: bold;
+}
+
+.lead {
+  text-align: left;
+}
